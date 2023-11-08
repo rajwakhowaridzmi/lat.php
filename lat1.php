@@ -1,6 +1,7 @@
 <?php
 
-echo "hello kiagus"; //seperti console.log
+//seperti console.log atau menampilkan teks ke layar 
+echo "hello kiagus"; 
 
 
 ?>
